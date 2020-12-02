@@ -1,3 +1,4 @@
 wsgiserver
 appdynamics
-
+# for uwsgi example
+uwsgi
