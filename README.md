@@ -35,6 +35,6 @@ More information: https://docs.appdynamics.com/display/PRO45/Python+Supported+En
 
 ---
 
-Example uwsgi
+***Example uwsgi***
 
 `pyagent run -c appd.cfg -- uwsgi --ini uwsgi.ini -w example`
